@@ -4,30 +4,30 @@ to use a different color start by replacing all instances of
 #5c87b2 with your new color.
 ----------------------------------------------------------*/
 body {
-    background-color: #5c87b2;
+    background-color: #BA7107;
     font-size: .85em;
     font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
     margin: 0;
     padding: 0;
-    color: #696969;
+    color: #1E3809;
 }
 
 a:link {
-    color: #034af3;
+    color: #1E3809;
     text-decoration: underline;
 }
 
 a:visited {
-    color: #505abc;
+    color: #64BA1F;
 }
 
 a:hover {
-    color: #1d60ff;
+    color: #64BA1F;
     text-decoration: none;
 }
 
 a:active {
-    color: #12eb87;
+    color: #64BA1F;
 }
 
 p, ul {
@@ -46,7 +46,7 @@ section {
 ----------------------------------------------------------*/
 h1, h2, h3, h4, h5, h6 {
     font-size: 1.5em;
-    color: #000;
+    color: #611909;
 }
 
 h1 {
@@ -85,7 +85,7 @@ page width. Or, you can specify an exact pixel width. */
 header, #header {
     position: relative;
     margin-bottom: 0px;
-    color: #000;
+    color: #64BA1F;
     padding: 0;
 }
 
@@ -93,7 +93,7 @@ header h1, #header h1 {
     font-weight: bold;
     padding: 5px 0;
     margin: 0;
-    color: #fff;
+    color: #64BA1F;
     border: none;
     line-height: 2em;
     font-size: 32px !important;
@@ -102,7 +102,7 @@ header h1, #header h1 {
 
 #main {
     padding: 30px 30px 15px 30px;
-    background-color: #fff;
+    background-color: #61BA1F;
     border-radius: 4px 0 0 0;
     -webkit-border-radius: 4px 0 0 0;
     -moz-border-radius: 4px 0 0 0;
@@ -110,8 +110,8 @@ header h1, #header h1 {
 
 footer, 
 #footer {
-    background-color: #fff;
-    color: #999;
+    background-color: #61BA1F;
+    color: #64BA1F;
     padding: 10px 0;
     text-align: center;
     line-height: normal;
@@ -142,7 +142,7 @@ ul#menu li#greeting {
     font-weight: bold;
     text-decoration: none;
     line-height: 2.8em;
-    color: #fff;
+    color: #1E3809;
 }
 
 ul#menu li a {
@@ -150,25 +150,25 @@ ul#menu li a {
     font-weight: bold;
     text-decoration: none;
     line-height: 2.8em;
-    background-color: #e8eef4;
-    color: #034af3;
+    background-color: #61BA1F;
+    color: #1E3809;
     border-radius: 4px 4px 0 0;
     -webkit-border-radius: 4px 4px 0 0;
     -moz-border-radius: 4px 4px 0 0;
 }
 
 ul#menu li a:hover {
-    background-color: #fff;
+    background-color: #61BA1F;
     text-decoration: none;
 }
 
 ul#menu li a:active {
-    background-color: #a6e2a6;
+    background-color: #61BA1F;
     text-decoration: none;
 }
 
 ul#menu li.selected a {
-    background-color: #fff;
+    background-color: #61BA1F;
     color: #000;
 }
 
@@ -227,7 +227,7 @@ table td {
 table th {
     padding: 6px 5px;
     text-align: left;
-    background-color: #e8eef4;
+    background-color: #61BA1F;
     border: solid 1px #e8eef4;
 }
 
@@ -287,7 +287,7 @@ div#title {
 
 .input-validation-error {
     border: 1px solid #ff0000;
-    background-color: #ffeeee;
+    background-color: #61BA1F;
 }
 
 .validation-summary-errors {

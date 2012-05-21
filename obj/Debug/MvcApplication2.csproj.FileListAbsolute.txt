@@ -1,0 +1,7 @@
+C:\Users\Alice MOBILE\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\MvcApplication2.dll
+C:\Users\Alice MOBILE\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\MvcApplication2.pdb
+C:\Users\Alice MOBILE\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\EntityFramework.dll
+C:\Users\Alice MOBILE\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\EntityFramework.xml
+C:\Users\Alice MOBILE\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alice MOBILE\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\MvcApplication2.dll
+C:\Users\Alice MOBILE\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\MvcApplication2.pdb

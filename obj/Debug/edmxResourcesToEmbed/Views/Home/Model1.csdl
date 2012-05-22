@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="Database1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DatiVaris" EntityType="Database1Model.DatiVari" />
+  </EntityContainer>
+  <EntityType Name="DatiVari">
+    <Key>
+      <PropertyRef Name="IdRiga" />
+    </Key>
+    <Property Name="IdRiga" Type="Int32" Nullable="false" />
+    <Property Name="Nome" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Cognome" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+</Schema>

@@ -97,13 +97,13 @@ header h1, #header h1 {
     border: none;
     line-height: 2em;
     font-size: 32px !important;
-    text-shadow: 1px 1px 2px #111;
+    
 }
 
 #main {
     padding: 30px 30px 15px 30px;
     background-color: #61BA1F;
-    border-radius: 4px 0 0 0;
+    
     -webkit-border-radius: 4px 0 0 0;
     -moz-border-radius: 4px 0 0 0;
 }
@@ -117,7 +117,7 @@ footer,
     line-height: normal;
     margin: 0 0 30px 0;
     font-size: .9em;
-    border-radius: 0 0 4px 4px;
+    
     -webkit-border-radius: 0 0 4px 4px;
     -moz-border-radius: 0 0 4px 4px;
 }
@@ -152,7 +152,7 @@ ul#menu li a {
     line-height: 2.8em;
     background-color: #61BA1F;
     color: #1E3809;
-    border-radius: 4px 4px 0 0;
+    
     -webkit-border-radius: 4px 4px 0 0;
     -moz-border-radius: 4px 4px 0 0;
 }
